@@ -27,4 +27,19 @@ The dataset "HollywoodMostProfitableStories" was obtained from Tableau Public an
 https://public.tableau.com/app/sample-data/HollywoodsMostProfitableStories.csv
 
 
+
+
+![image](https://github.com/SathiyavathiR/Hollywood-movies-performance-analysis-using-R-and-PowerBI/assets/107551488/e13d94ac-d75e-41d4-a1b8-afc2727fa157)
+
+![image](https://github.com/SathiyavathiR/Hollywood-movies-performance-analysis-using-R-and-PowerBI/assets/107551488/699f99c9-d8c8-4523-98ac-930f10667ab4)
+
+![image](https://github.com/SathiyavathiR/Hollywood-movies-performance-analysis-using-R-and-PowerBI/assets/107551488/3b97412f-2034-4bee-a4b4-16acad0796fb)
+
+![image](https://github.com/SathiyavathiR/Hollywood-movies-performance-analysis-using-R-and-PowerBI/assets/107551488/e527fbd8-fa04-44b5-bad4-86c92a990833)
+
+
+
+
+
+
 Feel free to explore the interactive visualizations and gain insights into the performance of Hollywood movies from 2007 to 2012!
